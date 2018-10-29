@@ -1,3 +1,6 @@
 Emp1 : John 
 Emp 2 : Stephen 
+Emp 3 : Ben
+Emp 4 : Mike 
+emp 6 : Lee
 # Employee has 3k employees
